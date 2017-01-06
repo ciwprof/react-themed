@@ -1,0 +1,15 @@
+{
+  "name": "react-themed",
+  "description": "A solution-agnostic higher-order component for theming.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/HugoGiraudel/react-themed",
+  "license": "MIT",
+  "main": "src/Themed.js",
+  "contributors": [
+    { "name": "Mike Smart" },
+    { "name": "Hugo Giraudel" }
+  ],
+  "dependencies": {
+    "react": "^0.15.0"
+  }
+}
